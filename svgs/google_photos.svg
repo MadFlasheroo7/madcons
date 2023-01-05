@@ -1,6 +1,10 @@
 <svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M96 22L96 96C116.435 96 133 79.4345 133 59C133 38.5655 116.435 22 96 22Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-<path d="M96 96L96 170C75.5655 170 59 153.435 59 133C59 112.565 75.5655 96 96 96Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-<path d="M170 96L96 96C96 116.435 112.565 133 133 133C153.435 133 170 116.435 170 96Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
-<path d="M96 96L22 96C22 75.5655 38.5655 59 59 59C79.4345 59 96 75.5655 96 96Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+<path d="M168 98.5L98.5 100L109.5 124C116.333 127 130.9 132.9 134.5 132.5C138.1 132.1 143.333 131.667 145.5 131.5L152 129L160.5 116.5L168 98.5Z" fill="black" fill-opacity="0.2"/>
+<path d="M92.5 95H25.5V94.5L27 85L40.5 64.5L64 61L78.5 62.5L87 74L92.5 95Z" fill="black" fill-opacity="0.5"/>
+<path d="M129 39.5L99 23V93H104L119 88.5L130 72L134.5 57.5L129 39.5Z" fill="black" fill-opacity="0.6"/>
+<path d="M96 22V96C116.435 96 133 79.4345 133 59C133 38.5655 116.435 22 96 22Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+<path d="M96 96V170C75.5655 170 59 153.435 59 133C59 112.565 75.5655 96 96 96Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+<path d="M170 96H96C96 116.435 112.565 133 133 133C153.435 133 170 116.435 170 96Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+<path d="M96 96H22C22 75.5655 38.5655 59 59 59C79.4345 59 96 75.5655 96 96Z" stroke="black" stroke-width="12" stroke-linejoin="round"/>
+<path d="M92 166.5V98.5L81.5 102L68 109L62.5 122.5V144.5L73 159.5L83.5 166.5H92Z" fill="black" fill-opacity="0.3"/>
 </svg>

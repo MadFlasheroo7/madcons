@@ -63,6 +63,12 @@ private val specialThanks = listOf(
         username = "rikkoedoot",
         descriptionRes = R.string.special_thanks_name,
     ),
+    Contributor(
+        name = "Sarran N",
+        photoUrl = "https://avatars.githubusercontent.com/u/69753775",
+        username = "cybercrak",
+        descriptionRes = R.string.special_icon,
+    )
 )
 
 @Composable
